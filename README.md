@@ -1,45 +1,48 @@
-# Determinants-and-Forecast-of-Galactic-Well-Being-Index
+# 🌌 Determinants & Forecast of Galactic Well-Being Index
 
-1. Objective
+> *A multidimensional analysis of what drives well-being across galaxies — and where it's headed.*
 
-The primary aim of this study was to:
+---
 
-    Identify the demographic and socio-economic variables that best explain the variation in the well-being index of galaxies.
+## Overview
 
-    Predict the future well-being index for a set of galaxies using observed data.
+This study identifies the key socio-economic and environmental drivers of galactic well-being, and builds a predictive model to forecast future well-being index values for use in evidence-based policy and resource allocation.
 
-2. Methodology
+---
 
-The analysis was based on a structured dataset comprising socio-economic indicators and observed well-being indices for various galaxies. Key steps in the process included:
+## Methodology
 
-    Exploratory Data Analysis (EDA): Assessed the distribution and correlation of variables with the well-being index.
+| Phase | Approach |
+|---|---|
+| **Exploratory Analysis** | Distribution profiling & correlation analysis |
+| **Feature Selection** | Regression techniques + Random Forest |
+| **Prediction** | Model-generated forecasts on validation dataset |
 
-    Feature Selection & Modeling: Applied regression-based techniques and machine learning models (e.g., Random Forest) to identify the most impactful predictors.
+---
 
-    Prediction: The trained model was used to generate predictions for galaxies in the validation dataset.
+## Key Determinants of Well-Being
 
-3. Key Determinants of Well-Being
+The six strongest predictors identified:
 
-The following variables were identified as the strongest predictors of well-being across galaxies:
+- 💰 **Income per Capita** — Higher income, higher well-being
+- 🎓 **Education Index** — Educational attainment is a top-tier predictor
+- 🏥 **Healthcare Access** — Quality and availability of services matter
+- 💼 **Employment Rate** — Economic participation drives positive outcomes
+- 🌿 **Environmental Quality** — Clean, sustainable conditions correlate strongly
+- 🤝 **Social Support** — Community cohesion rounds out the picture
 
-    Income per Capita: Higher income levels were positively correlated with well-being.
+These findings confirm that well-being is **multidimensional** — no single lever explains it.
 
-    Education Index: A strong positive contributor; galaxies with greater educational attainment scored higher.
+---
 
-    Healthcare Access: Availability and quality of healthcare services significantly impacted well-being.
+## Outputs
 
-    Employment Rate: Economically active populations tended to show better well-being metrics.
+- 📊 **Predictions** — Future well-being index values generated for the validation dataset
+- 📁 **Presentation** — Full results deck available separately
+- 📄 **Spreadsheet** — Available on request
 
-    Environmental Quality: Clean, sustainable environments were associated with higher well-being.
+---
 
-    Social Support Indicators: Metrics related to community cohesion and support also played a role.
+## Conclusion
 
-These findings highlight the multidimensional nature of well-being, integrating economic, social, and environmental factors.
-4. Future Predictions
-
-Using the derived model, future well-being index values were predicted for the validation dataset. These predictions provide valuable insights for galactic policy-making and resource allocation aimed at improving overall well-being.
-
-The results are included in the attached presentation and can be provided in a spreadsheet format upon request.
-5. Conclusion
-
-This analysis demonstrates that well-being is driven by a combination of socio-economic and environmental factors. Predictive modeling offers a powerful tool for anticipating future trends and guiding evidence-based interventions across galaxies.
+Well-being across galaxies is driven by a combination of economic, social, and environmental factors. Predictive modelling provides a scalable tool for anticipating trends and guiding targeted interventions — turning data into galactic policy.
